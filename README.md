@@ -1,5 +1,5 @@
 # House Price Prediction
-This project aims to predict house prices based on various features using a machine learning model. The dataset has been preprocessed and divided into training and validation sets to evaluate the model's performance. The following sections describe the data processing, model building, and evaluation steps
+This project aims to predict house prices based on various features using a machine learning model. The dataset has been preprocessed and divided into training and validation sets to evaluate the model's performance. The following sections describe the data processing, model building, and evaluation steps.
 
 # Project Report: House Price Prediction
 ## 1. Introduction
